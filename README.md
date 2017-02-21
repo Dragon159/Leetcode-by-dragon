@@ -1,4 +1,4 @@
-# Leetcode-database-
+# Leetcode
 UPDATE PERIODICALLY
 
 Will post some solutions to problems in leetcode,welcome to everyone's common.
